@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codinghoneyjam)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codinghoneyjam)](https://solved.ac/codinghoneyjam/)
 <!--
 **codingksj/codingksj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=left><h3>그나마 할 줄 아는거</h3></div>
+<div align=left><h2>그나마 할 줄 아는거</h2></div>
 
 <div align=left> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -24,4 +24,7 @@ Here are some ideas to get you started:
   <br>
 </div>
 
+<div> <h2>언어 통계래요</h2> </div>
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingksj)](https://github.com/anuraghazra/github-readme-stats)
+</div>

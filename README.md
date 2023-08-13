@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 </div>
 
 <div> <h2>언어 통계래요</h2> </div>
-<div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingksj)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
